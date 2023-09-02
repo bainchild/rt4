@@ -1,0 +1,5 @@
+{
+    "Lua.diagnostics.severity": {
+        "redefined-local": "Warning"
+    }
+}
